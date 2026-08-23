@@ -16,3 +16,5 @@ data/processed/*
 !data/processed/.gitkeep
 models/*.joblib
 !models/.gitkeep
+models\tuning_results.json
+tuning_results.json
