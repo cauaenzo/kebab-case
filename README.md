@@ -297,6 +297,28 @@ print(f"Classe: {'Doente' if pred_class else 'Saudável'} | Probabilidade: {pred
 
 ---
 
+## References
+
+**Dataset & Clinical Foundation**
+- Detrano et al. (1989). *International application of a new probability algorithm for the diagnosis of coronary artery disease*. Am J Cardiol, 64(5):304-310.
+- Goff et al. (2014). *2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk*. J Am Coll Cardiol, 63(25 Part B):2935-2959.
+
+**ML Methodology & Regularization**
+- Tibshirani (1996). *Regression Shrinkage and Selection via the Lasso*. J R Stat Soc Series B, 58(1):267-288.
+- Varoquaux (2018). *Cross-validation failure: Small sample sizes lead to large error bars*. NeuroImage, 180:68-77.
+- Hand & Till (2001). *A Simple Generalisation of the Area Under the ROC Curve*. Machine Learning, 45(2):171-186.
+
+**Interpretability & Fairness**
+- Lundberg & Lee (2017). *A Unified Approach to Interpreting Model Predictions (SHAP)*. NeurIPS 30.
+- DeGrave et al. (2021). *AI for radiography lacks immunities to temporal on-site and off-site data shifts*. Nat Mach Intell, 3(4):286-290.
+
+**Software Engineering & Pipeline Architecture**
+- Pedregosa et al. (2011). *Scikit-learn: Machine Learning in Python*. JMLR, 12:2825-2830.
+- Sculley et al. (2015). *Hidden Technical Debt in Machine Learning Systems*. NeurIPS 28.
+- Shaw & Garlan (1996). *Software Architecture: Perspectives on an Emerging Discipline*. ACM.
+
+---
+
 ## License
 
 MIT License — veja [LICENSE](LICENSE) para detalhes.
